@@ -1,0 +1,7 @@
+{
+  "name": "VisionFlow AI - Face Detector",
+  "description": "A high-performance client-side face detection system powered by MediaPipe and React, providing real-time tracking, coordinate scaling, and visual overlays.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
